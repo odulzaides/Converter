@@ -1,0 +1,6 @@
+Measure menu interface
+	all funtions worked
+
+Weight menu interface
+	import weight module
+	impoort converter in last function
